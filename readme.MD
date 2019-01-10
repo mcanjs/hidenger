@@ -13,7 +13,7 @@ Easy code Vanilla & Pure Javascript
 ```
 ### Expected HTML Class
 
-```
+``` 
     hidenger-show-hide
 ```
 
