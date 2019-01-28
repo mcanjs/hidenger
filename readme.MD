@@ -8,7 +8,7 @@ Easy code Vanilla & Pure Javascript
 ```
     <div>
         <input type="password" />
-        <button class="hidenger-show-hide">Show / Hide</button>
+        <button class="hidenger-show-hide">Show</button>
     </div>
 ```
 ### Expected HTML Class
