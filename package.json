@@ -1,0 +1,29 @@
+{
+  "name": "hidenger",
+  "version": "1.0.2",
+  "description": "Show / Hide for HTML INPUT",
+  "main": "hidenger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcannspin/hidenger.git"
+  },
+  "keywords": [
+    "html5 input show hide",
+    "input manipulation",
+    "html5 input manipülasyon",
+    "input show hide",
+    "show",
+    "hide",
+    "html5",
+    "input"
+  ],
+  "author": "Mehmet Can Kızılyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcannspin/hidenger/issues"
+  },
+  "homepage": "https://github.com/mcannspin/hidenger#readme"
+}
